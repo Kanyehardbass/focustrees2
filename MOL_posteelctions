@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T10:11:58.948Z" agent="5.0 (Windows)" version="20.0.0" etag="5OTYPofvmBr1y8xE6Qe4" type="github"><diagram id="8iYhIL_SlfxAndPC63Ep">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-13T10:13:55.936Z" agent="5.0 (Windows)" etag="86cO25uZkA4mK-QzuL3B" version="20.0.0" type="github">
+  <diagram id="8iYhIL_SlfxAndPC63Ep" name="Page-1">
+    <mxGraphModel dx="1262" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cydlpVP3Ez2pPZmLKcQ3-1" value="Defense of Moldova" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cydlpVP3Ez2pPZmLKcQ3-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="cydlpVP3Ez2pPZmLKcQ3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="120" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cydlpVP3Ez2pPZmLKcQ3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
